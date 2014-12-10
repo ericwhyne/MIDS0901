@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Warning: this is a sloppy hack with dead code and lint included.
 import sys
 import cProfile
 import time
